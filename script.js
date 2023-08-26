@@ -106,7 +106,13 @@
 
 
 
+
+
+
+
+
 /////////////////// remove first 2 words
+
 // let yourarray = ["ram", "shyam" , "jadu" , "madhu"]
 
 // yourarray.shift()
@@ -114,6 +120,33 @@
 // yourarray.shift()
 
 // document.write(yourarray);
+
+/////////////////// remove first 2 words
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+// let yourarray = ["ram", "shyam" , "jadu" , "madhu"]
+
+// for(let i = 0; i<yourarray.length; i++){
+
+
+//     document.write(yourarray[i]+"<br>" );
+// }
+
+
+
+
+
+
+
+
 
 
 
